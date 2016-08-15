@@ -8,6 +8,7 @@ public class TestGitHub {
 		System.out.println("hello 01");
 		System.out.println("hello 02");
 		System.out.println("hello 04");
+		System.out.println("hello github 服务器02 by other");
 	}
 
 }
